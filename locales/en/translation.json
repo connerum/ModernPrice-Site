@@ -1,0 +1,50 @@
+{
+	"hero": {
+		"title": "Effortless Label Printing for Dynamic Pricing",
+		"subtitle": "ModernPrice: Streamlining Your Zebra Printer Experience, No Internet or Drivers Required",
+		"globe_title": "Craft Stunning, High-Performance Websites with Ease and Speed",
+		"main_button_text": "Download Now",
+		"secondary_button_text": "Go to animated version"
+	},
+	"hero_animated": {
+		"secondary_button_text": "Go to base version"
+	},
+	"header": {
+		"features": "Features",
+		"about": "About",
+		"blog": "Blog",
+		"contact": "Contact",
+		"primary_button_text": "Download",
+		"secondary_button_text": "Login"
+	},
+	"features": {
+		"learn_more": "Learn more",
+		"title": "Features",
+		"subtitle": "Powerful Features for Seamless Label Printing",
+		"description": "Discover how ModernPrice revolutionizes your labeling process with intuitive, cross-platform capabilities—no internet or drivers needed.",
+		"astro": "No need for a constant internet connection. ModernPrice works seamlessly offline, so you can print labels anytime, anywhere.",
+		"alpine": "Input the cash price, and let ModernPrice automatically calculate the card price for you. It's efficient pricing made simple.",
+		"tailwind": "Choose from three different label sizes to fit your specific needs. ModernPrice gives you the flexibility to adapt to various pricing scenarios.",
+		"localization": "Eliminate the hassle of downloading additional Zebra drivers or software. ModernPrice is plug-and-play, right out of the box.",
+		"light_dark_mode": "Whether you're on Windows, macOS, or Linux, ModernPrice has you covered. Experience streamlined label printing across all operating systems.",
+		"giscus": "Optimize your workflow by setting the number of labels you want to print in a single batch.",
+		"decapcms": "Open source content management for your Git workflow",
+		"rss": "RSS feed generato da @astrojs/rss",
+		"articlegenerator": "Use AI to generate your articles posts"
+	},
+	"faq": {
+		"title": "Frequently Asked Questions"
+	},
+	"newsletter": {
+		"title": "Subscribe for future updates",
+		"subtitle": "Get notified for all updates",
+		"input_placeholder": "Enter your email",
+		"button_text": "Subscribe",
+		"privacy": "We care about the protection of your data. Read our ",
+		"privacy_link": "Privacy Policy."
+	},
+	"blog": {
+		"prev": "Prev",
+		"next": "Next"
+	}
+}
